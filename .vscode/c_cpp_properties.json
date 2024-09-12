@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/Users/dooik/Hanyang Univ/3-2/numerical_analysis/NRs/ansi/other"
+                "${workspaceFolder}/NRs/ansi/other"
             ],
             "defines": [],
             "macFrameworkPath": [
